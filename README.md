@@ -4,7 +4,7 @@ La page de navigation dans le Git de CloudReady. Il y aura des trucs documentés
 ## Contenus sur Github
 ### Les fork des supports LAB de Microsoft Learning
 C'est juste "au cas où" on conserve une copie, mais il vaut mieux aller voir les originaux et les "Issues" identifiés. Les fork reprennent le nom d'origine qui vont ressembler à:
-* xZ-N00-TrucMicrosoftMachin
+* *xZ-N00-Truc***Microsoft***Machin*
 
 Mais les parties "fils rouges" de nos notes de cours et aides sur les formations, sont ici
 * https://github.com/CloudReady-ch/ISEIG-LAB (Mais que sur Microsoft)
