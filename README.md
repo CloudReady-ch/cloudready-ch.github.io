@@ -7,7 +7,7 @@ C'est juste "au cas où" on conserve une copie, mais il vaut mieux aller voir le
 * *xZ-N00-Truc***Microsoft***Machin*
 
 Mais les parties "fils rouges" de nos notes de cours et aides sur les formations, sont ici
-* https://github.com/CloudReady-ch/ISEIG-LAB (Mais que sur Microsoft)
+* https://github.com/CloudReady-ch/ISEIG-LAB (Y extraire les trucs Microsoft)
 
 Ou ici
 * https://github.com/CloudReady-ch/QuickLearn/tree/master/Microsoft
@@ -26,7 +26,8 @@ Le collectif pour les formateurs indépendants ou en mode contributif:
 En plus des Fils rouges et supports pour les formations et certifications Microsoft déjà mentionnées, ces LAB
 #### Microsoft
 * AZURE (+AZ-xxx)
-* MS-xxx: 
+* MS-xxx: Microsoft infra
+* 
 
 #### Quelques docs génériques
 * https://github.com/CloudReady-ch/ISEIG-LAB/blob/master/Glossaire-ICT.md
